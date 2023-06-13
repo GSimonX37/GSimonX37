@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="gaggle_icon.svg" width="32" height="32" />
 <!--
 **GSimonX37/GSimonX37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
