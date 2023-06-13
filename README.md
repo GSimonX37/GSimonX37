@@ -6,4 +6,3 @@
 * 🧠 I am studying the course "Yandex Practicum - Data Scientist"
 
 ### Socials
-<a href="https://www.kaggle.com/gsimonx37" target="_blank" rel="noreferrer"><img src="kaggle_logo.svg" width="32" height="32"/></a>
